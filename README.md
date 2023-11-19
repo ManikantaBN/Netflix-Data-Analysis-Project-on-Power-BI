@@ -5,8 +5,11 @@ Business problem A Netflix associate wants to understand the frequency of shows 
 
 # Steps:
 1.) Extract the Netflix associate data in power BI
+
 2.) Transform the data in power query editor
+
 3.) Load the data in power BI
+
 4.) Create Necessary Visuals to solve the Business Problem.
 
 # Visuals:
